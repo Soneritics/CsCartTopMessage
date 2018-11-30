@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-11-30 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_top_message"
+msgid "Soneritics Top Message"
+msgstr "Soneritics Top Message"
+
+msgctxt "Addons::description::soneritics_top_message"
+msgid "Message on top of every page"
+msgstr "Message on top of every page"
