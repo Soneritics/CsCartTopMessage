@@ -2,12 +2,12 @@
 <addon scheme="3.0">
     <id>soneritics_top_message</id>
     <name>Soneritics Top Message</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <default_language>en</default_language>
     <priority>1000</priority>
     <status>active</status>
     <has_icon>Y</has_icon>
-    <settings>
+    <settings edition_type="ROOT,ULT:VENDOR">
         <sections>
             <section id="general">
                 <items>
